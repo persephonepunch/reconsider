@@ -1,0 +1,154 @@
+#u5652
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: transparent;
+	background-size: contain;
+}
+
+#u5659
+{
+	border-color: #999999;
+	background-color: transparent;
+}
+
+#u5660
+{
+	background-color: transparent;
+	border-color: transparent;
+	border-width: 0px;
+}
+
+#u5662-4
+{
+	background-color: transparent;
+	border-style: solid;
+	border-color: #FFFFFF;
+	line-height: 12px;
+	border-width: 0px 1px 0px 0px;
+}
+
+#u5661-4
+{
+	background-color: transparent;
+	border-color: transparent;
+	line-height: 12px;
+	border-width: 0px;
+}
+
+#u5663-4
+{
+	background-color: transparent;
+	border-style: solid;
+	border-color: #FFFFFF;
+	line-height: 12px;
+	border-width: 0px 0px 0px 1px;
+}
+
+#u5662-4:hover p,#u5661-4:hover p,#u5663-4:hover p
+{
+	visibility: inherit;
+	color: #E5BD9A;
+}
+
+#u5662-2,#u5661-2,#u5663-2
+{
+	font-size: 10px;
+	color: #777777;
+}
+
+#u5665
+{
+	border-color: #FFFFFF;
+	background: transparent url("../images/navburger.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u5665.PamphletThumbSelected
+{
+	border-radius: 0px;
+	border-color: #FFFFFF;
+	background: transparent url("../images/close.png") no-repeat center center;
+	background-size: contain;
+}
+
+.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton
+{
+	cursor: pointer;
+}
+
+#u3323
+{
+	background-color: #080808;
+}
+
+@media (min-width: 961px)
+{
+	#u5652
+	{
+		background-image: url("../images/download.png");
+	}
+
+	#u3323_align_to_page
+	{
+		max-width: 1200px;
+	}
+
+}
+
+@media (min-width: 769px) and (max-width: 960px)
+{
+	#u5652
+	{
+		background-image: url("../images/download.png");
+	}
+
+	#u3323_align_to_page
+	{
+		max-width: 960px;
+	}
+
+}
+
+@media (min-width: 551px) and (max-width: 768px)
+{
+	#u5652
+	{
+		background-image: url("../images/download-u5652-fr.png");
+	}
+
+	#u3323_align_to_page
+	{
+		max-width: 768px;
+	}
+
+}
+
+@media (min-width: 321px) and (max-width: 550px)
+{
+	#u5652
+	{
+		background-image: url("../images/download-u5652-fr2.png");
+	}
+
+	#u3323_align_to_page
+	{
+		max-width: 550px;
+	}
+
+}
+
+@media (max-width: 320px)
+{
+	#u5652
+	{
+		background-image: url("../images/download.png");
+	}
+
+	#u3323_align_to_page
+	{
+		max-width: 320px;
+	}
+
+}
+

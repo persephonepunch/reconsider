@@ -1,0 +1,90 @@
+	#u8448
+	{
+		border-color: #999999;
+		background-color: transparent;
+	}
+
+	#u8449
+	{
+		border-width: 0px;
+		border-color: transparent;
+		background-color: transparent;
+	}
+
+	#u8452-4
+	{
+		border-style: solid;
+		border-color: #FFFFFF;
+		background-color: transparent;
+		line-height: 12px;
+		color: #FFFFFF;
+		border-width: 0px 1px 0px 0px;
+	}
+
+	#u8450-4
+	{
+		border-width: 0px;
+		border-color: transparent;
+		background-color: transparent;
+		line-height: 12px;
+		color: #FFFFFF;
+	}
+
+	#u8451-4
+	{
+		border-style: solid;
+		border-color: #FFFFFF;
+		background-color: transparent;
+		line-height: 12px;
+		color: #FFFFFF;
+		border-width: 0px 0px 0px 1px;
+	}
+
+	#u8452-4:hover p,#u8450-4:hover p,#u8451-4:hover p
+	{
+		color: #E5BD9A;
+		visibility: inherit;
+	}
+
+	#u8452-2,#u8450-2,#u8451-2
+	{
+		font-size: 10px;
+	}
+
+	#u8440
+	{
+		border-color: #FFFFFF;
+		background: transparent url("../images/navburger.png") no-repeat center center;
+		background-size: contain;
+	}
+
+	#u8440.PamphletThumbSelected
+	{
+		border-color: #FFFFFF;
+		border-radius: 0px;
+		background: transparent url("../images/close.png") no-repeat center center;
+		background-size: contain;
+	}
+
+	.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
+	{
+		cursor: pointer;
+	}
+
+	#u8431
+	{
+		background-color: #080808;
+	}
+
+	#u8431_align_to_page
+	{
+		max-width: 1200px;
+	}
+
+	#u8437,#u8432
+	{
+		background: transparent url("../images/download.png") no-repeat center center;
+		background-size: contain;
+	}
+
+
